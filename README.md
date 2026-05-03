@@ -1,14 +1,15 @@
-# Lógica e Python – Estudos Iniciais
-
-Este repositório reúne exercícios e práticas iniciais em lógica de programação e Python.
-
-## Conteúdo
-
-- Variáveis
-- Operações básicas
-- Estruturas condicionais
-- Estruturas de repetição
+## Sobre o projeto
+Este repositório contém exercícios e práticas iniciais em Python,
+com foco no desenvolvimento de lógica de programação e raciocínio computacional.
 
 ## Objetivo
+Desenvolver base sólida em lógica de programação e Python.
 
-Desenvolver uma base sólida em programação e evoluir para projetos mais completos ao longo do tempo.
+## Conteúdos abordados
+- Variáveis
+- Condições
+- Laços de repetição
+- Estrutura lógica
+
+## Evolução
+Este repositório representa o início da minha formação em programação.
